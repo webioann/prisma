@@ -24,7 +24,7 @@ const Workspace_Page = async() => {
                 <TotalResult title='Assigned Tasks' total={7}/>
                 <TotalResult title='Completed Task' total={taskCheckedCount(WorkspacesData)}/>
                 <TotalResult title='Overdue Tasks' total={0}/>
-                <Link href={`/workspace/${ID}`}>GOOOOOOOOOOOO</Link>
+                <Link href={`/workspace/${ID}`}>LINK TO MODAL</Link>
             </div>
 
             {/* workspaces */}
