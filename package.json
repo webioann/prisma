@@ -1,6 +1,10 @@
 {
-  "name": "jira-clone",
+  "name": "prisma-next-auth-app",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webioann/prisma"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
